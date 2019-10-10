@@ -1,5 +1,7 @@
 # Projeto_LISP
 
+Projeto de paradigmas de programação A, 5° semestre da faculdade
+
 ## Sistema academico
 
 * MATRICULAR (ALUNOS DISCIPLINAS BD) 
